@@ -25,3 +25,8 @@ You should be displayed with a log of the presses, as well as parsed values
 (assuming the sensors are the ones provided in the [EnOcean Starter Kit](https://www.enocean.com/en/enocean_modules/esk-300)).
 
 The example script can be stopped by pressing `CTRL+C`
+
+## Troubleshooting ##
+
+Users of the add-on board mounted directly on top of Raspberry Pi might need to disable default
+Raspbian functionality in GPIO14 and 15. This is a quick operation (described here)[http://www.raspberrypi-spy.co.uk/2013/12/free-your-raspberry-pi-serial-port/].
