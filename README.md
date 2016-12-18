@@ -29,4 +29,4 @@ The example script can be stopped by pressing `CTRL+C`
 ## Troubleshooting ##
 
 Users of the add-on board mounted directly on top of Raspberry Pi might need to disable default
-Raspbian functionality in GPIO14 and 15. This is a quick operation (described here)[http://www.raspberrypi-spy.co.uk/2013/12/free-your-raspberry-pi-serial-port/].
+Raspbian functionality in GPIO14 and 15. This is a quick operation [described here](http://www.raspberrypi-spy.co.uk/2013/12/free-your-raspberry-pi-serial-port/).
